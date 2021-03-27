@@ -1,2 +1,3 @@
 Jack: "plants the beans"
-beans: "grow into massive stalk"
+beans: "grow into massive stalk or"
+jack: "climbed said beanstalk" 
