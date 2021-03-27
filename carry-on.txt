@@ -1,2 +1,3 @@
 Jack: "plants the beans"
 beans: "grow into massive stalk"
+Jack: "Oh my God! What a huge stalk!"
