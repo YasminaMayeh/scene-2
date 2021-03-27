@@ -1,1 +1,2 @@
 Jack: "plants the beans"
+beans: "grow into massive stalk"
