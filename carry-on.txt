@@ -1,8 +1,5 @@
 Jack: "plants the beans"
-<<<<<<< HEAD
 beans: "grow into massive stalk or"
-jack: "climbed said beanstalk" 
-=======
-beans: "grow into massive stalk"
 Jack: "Oh my God! What a huge stalk!"
->>>>>>> 2ac92a5dbc7e9a4a7d0ff2b6028d47dcc3d51a6b
+jack: "climbed said beanstalk" 
+customer: " i want my beans back"
